@@ -1,3 +1,5 @@
+👋 Hi there! I'm Nithya Majeti
+>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nithya4005&theme=github-dark&mode=light" />
