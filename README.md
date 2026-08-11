@@ -1,6 +1,3 @@
-# nithya4005
-
-> Hi, I'm **nithya4005**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nithya4005&theme=github-dark&mode=light" />
