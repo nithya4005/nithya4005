@@ -1,8 +1,15 @@
+<div align="center">
+
 # hi, i'm nithya 👋
 
-> `$ 3rd year Software Engineering Student at McMaster`
+*3rd year Software Engineering @ McMaster*
 
-**nithya4005** · ml / ai / web · open source builder · perpetually mid-adventure
+![ML/AI](https://img.shields.io/badge/ML%20%2F%20AI-%23a78bfa?style=flat-square&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-%23f472b6?style=flat-square&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web%20Dev-%23a78bfa?style=flat-square&logoColor=white)
+![Hardware Tinkerer](https://img.shields.io/badge/Hardware%20Tinkerer-%23f472b6?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
@@ -16,7 +23,7 @@
 
 ### what i build
 
-`ml / ai` `data pipelines` `open source` `web dev` `llms` `tooling`
+`ml / ai` `open source` `data pipelines` `web dev` `llms` `tooling`
 
 ---
 
@@ -30,12 +37,10 @@
 
 ```
 // in progress
-▸ a custom MCP connector that syncs Notion, Microsoft To-Do & Google Calendar —
-  an AI-powered scheduling assistant that actually adapts to how humans live
+▸ a custom MCP connector syncing Notion, Microsoft To-Do & Google Calendar —
+  an AI scheduling assistant that adapts to how humans actually live
 ▸ small hardware projects — tinkering with circuits & building things i can hold
 ▸ going down the LLM rabbit hole — understanding the internals, not just the APIs
 ```
 
 ---
-
-![nithya4005's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithya4005&show_icons=true&theme=tokyonight)
