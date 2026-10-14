@@ -17,11 +17,10 @@
 ### ✨ Highlights
 
 - **RBC Borealis** · *ML Researcher*: Fine-tuning ImageNet-pretrained ResNets against a custom CNN baseline in PyTorch across 3,600+ retinal images and 5 severity grades, using class-weighted loss and threshold tuning to target 90%+ sensitivity so fewer cases get missed.
-- **Royal Bank of Canada** · *Software Engineer Intern*: Built a production payment conversion pipeline between RBC New York and the Caribbean, and automated ATM and POS restarts that cut customer downtime from 15 to under 5 minutes for 500K+ clients across 10 countries.
+- **Royal Bank of Canada** · *Software Engineer Intern*: Built a production payment conversion pipeline between RBC New York and the Caribbean, and cut system downtime from 15 to under 5 minutes for 500K+ clients across 10 countries.
 - **MerchMe** · *AI Software Engineer Intern (San Francisco)*: Owned production infrastructure for a live creator monetization platform, from Stripe payment flows across 300+ creators to an AI agent pipeline generating 100+ brand campaigns and CI/CD across Vercel and Railway.
 - **Semantic Technology Services** · *Software Engineer Intern*: Built an NBA prediction system with ETL pipelines over 1,000+ player sheets and LSQR and gradient descent models reaching 92% accuracy.
-- **MacGPT**: A production-grade RAG assistant for McMaster policy documents with hybrid semantic and full-text search, reranking, role-based access, and Langfuse monitoring of hallucination rates.
-- **BYTEsense**: 2nd place for Best Hack in Replit at Hack the North (1,000+ hackers). An AI dietary app that breaks your meals into ingredients and learns from how you rate each dish.
+- **BYTEsense**: 2nd place for Best Hack in Replit at **Hack the North**. An AI dietary app that breaks your meals into ingredients and learns from how you rate each dish.
 
 ### 🛠️ Tech stack
 
@@ -42,7 +41,7 @@
 
 **Cloud, DevOps & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,kafka,redis,linux,bash,git,postgres,mysql,sqlite,supabase,mongodb,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,kafka,linux,git,postgres,mysql,mongodb&theme=dark" />
 </p>
 
 ### 💌 Let's connect
