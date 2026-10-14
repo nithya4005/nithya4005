@@ -46,7 +46,6 @@
 
 ### 💌 Let's connect
 
-<p>
-  <a href="https://linkedin.com/in/nithya-majeti"><img src="https://img.shields.io/badge/LinkedIn-f4a6c8?style=for-the-badge&logo=linkedin&logoColor=3a2350" /></a>
-  <a href="mailto:majetinithya@gmail.com"><img src="https://img.shields.io/badge/Email-b39af0?style=for-the-badge&logo=gmail&logoColor=3a2350" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/nithya-majeti">LinkedIn</a> · <a href="mailto:majetinithya@gmail.com">Email</a>
 </p>
