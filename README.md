@@ -45,7 +45,5 @@
 </p>
 
 ### 💌 Let's connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/nithya-majeti">LinkedIn</a> · <a href="mailto:majetinithya@gmail.com">Email</a>
-</p>
+- LinkedIn: [linkedin.com/in/nithya-majeti](https://linkedin.com/in/nithya-majeti)
+- Email: [majetinithya@gmail.com](mailto:majetinithya@gmail.com)
