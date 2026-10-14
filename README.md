@@ -11,7 +11,7 @@
 ### 🌸 About me
 
 - 🧠 Passionate about machine learning, data science, and AI workflows (RAG, agents, MCP)
-- 🎨 I love design and recently fell into creative tech (yes, I pixel-arted this banner)
+- 🎨 I love design and recently fell into creative tech 
 - 🌴 I travel a lot! 12+ countries and counting
 
 ### ✨ Highlights
