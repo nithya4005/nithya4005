@@ -18,7 +18,7 @@
 
 - **RBC Borealis** · *ML Researcher*: Fine-tuning ImageNet-pretrained ResNets against a custom CNN baseline in PyTorch across 3,600+ retinal images and 5 severity grades, using class-weighted loss and threshold tuning to target 90%+ sensitivity so fewer cases get missed.
 - **Royal Bank of Canada** · *Software Engineer Intern*: Built a production payment conversion pipeline between RBC New York and the Caribbean, and cut system downtime from 15 to under 5 minutes for 500K+ clients across 10 countries.
-- **MerchMe** · *AI Software Engineer Intern (San Francisco)*: Owned production infrastructure for a live creator monetization platform, from Stripe payment flows across 300+ creators to an AI agent pipeline generating 100+ brand campaigns and CI/CD across Vercel and Railway.
+- **MerchMe** · *AI Software Engineer Intern (San Francisco)*: Built infra for one of Canada's first creator monetization platforms connecting 300+ creators with brands
 - **Semantic Technology Services** · *Software Engineer Intern*: Built an NBA prediction system with ETL pipelines over 1,000+ player sheets and LSQR and gradient descent models reaching 92% accuracy.
 - **BYTEsense**: 2nd place for Best Hack in Replit at **Hack the North**. An AI dietary app that breaks your meals into ingredients and learns from how you rate each dish.
 
